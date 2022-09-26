@@ -2,7 +2,7 @@
 
 ![Preview](.github/preview.png)
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://biogmmorais.github.io/Calculadora-de-Gorjeta/)
 
 > Projeto Start OneBitCode
 
